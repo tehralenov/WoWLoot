@@ -1,0 +1,1 @@
+The intent of this system is to leverage the "DFT Fight Club" Loot System (https://youtu.be/-OnW2omAO7o) as presented in the "Some fancy spreadsheet" Discord and connect it to the Gargul loot addon (https://github.com/papa-smurf/Gargul/wiki). This is not currently a longterm support project, so use at your own risk.
